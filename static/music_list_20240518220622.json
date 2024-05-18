@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "345325ec1f896e58ed9e989ed7b216f6",
+                "name": "Molla Musa Sayrami 1",
+                "artist": "ئۇيغۇرچە ئەسەر Uyghurche Eser",
+                "album": "تارىخنىڭ كۆزى موللا مۇسا سايرامى (1)",
+                "url": "static/Molla Musa Sayrami/Molla Musa Sayrami 1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "345325ec1f896e58ed9e989ed7b216f6",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3da242364545076297d38708dd328f7d",
+                "name": "Molla Musa Sayrami 2",
+                "artist": "ئۇيغۇرچە ئەسەر Uyghurche Eser",
+                "album": "تارىخنىڭ كۆزى موللا مۇسا سايرامى (2)",
+                "url": "static/Molla Musa Sayrami/Molla Musa Sayrami 2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3da242364545076297d38708dd328f7d",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3caef6f2c43af51653ee6ba753263147",
+                "name": "Molla Musa Sayrami 3",
+                "artist": "ئۇيغۇرچە ئەسەر Uyghurche Eser",
+                "album": "تارىخنىڭ كۆزى موللا مۇسا سايرامى (3))",
+                "url": "static/Molla Musa Sayrami/Molla Musa Sayrami 3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3caef6f2c43af51653ee6ba753263147",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
